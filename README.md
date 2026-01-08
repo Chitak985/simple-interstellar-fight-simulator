@@ -1,4 +1,4 @@
-# Simple Interstellar Fight Simulator (public)
+# Simple Interstellar Fight Simulator
 
 This game is about multiplayer space combat in a solar system. Mine resources, defend your ships, and attack the other players!
 
