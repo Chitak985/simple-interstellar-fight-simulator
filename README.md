@@ -1,6 +1,6 @@
 # Simple Interstellar Fight Simulator
 
-This game is about multiplayer space combat in a solar system. Mine resources, defend your ships, and attack the other players!
+This game is about multiplayer space combat in a galaxy. Mine resources, defend your ships, and attack other players!
 
 SIFS has its own website! You can visit it [sifs.page.gd](here).
 Join [https://discord.gg/rYBtCaUXm7](this) Discord server for updates on the game, sneak peeks, and a community to talk about it!
